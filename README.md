@@ -1,5 +1,7 @@
 # Everywhere Word Roots CN
 
+[中文说明](README.zh-CN.md)
+
 One-key word-root lookup for Chinese readers of English biology, medicine, and chemistry papers.
 
 Select a word in Chrome, a PDF reader, Zotero, or any selectable text surface, press `Alt+X`, and AutoHotkey sends the word to an Everywhere assistant configured for concise etymology, morphology, and domain usage.
@@ -92,4 +94,3 @@ The setup script edits `%APPDATA%\Everywhere\settings.json` and creates a timest
 ## License
 
 MIT
-
